@@ -28,7 +28,7 @@
         "illuminate/validation": "^11.0"
     },
     "require-dev": {
-        "laravel/framework": "^11.9",
+        "laravel/framework": "^11.31",
         "laravel/laravel": "^11.3.2"
     },
     "minimum-stability": "stable",
